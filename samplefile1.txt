@@ -1,3 +1,3 @@
 This is Sample file 1
 
-Testing Revert 1
+Testing Reset commit 1
